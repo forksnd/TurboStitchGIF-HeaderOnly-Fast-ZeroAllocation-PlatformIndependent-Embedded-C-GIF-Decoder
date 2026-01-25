@@ -1,10 +1,6 @@
 # GIF Decoder Library
 
-![header-only](https://img.shields.io/badge/header--only-brightgreen)  
-![platform-independent](https://img.shields.io/badge/platform-independent-blue)  
-![zero-allocations](https://img.shields.io/badge/zero%20allocations-success)  
-![license-MIT](https://img.shields.io/badge/license-MIT-green)  
-![safety-enhanced](https://img.shields.io/badge/safety-enhanced-red)  
+![header-only](https://img.shields.io/badge/header--only-brightgreen)  ![platform-independent](https://img.shields.io/badge/platform-independent-blue)  ![zero-allocations](https://img.shields.io/badge/zero%20allocations-success)  ![license-MIT](https://img.shields.io/badge/license-MIT-green)  ![safety-enhanced](https://img.shields.io/badge/safety-enhanced-red)  
 
 **TurboStitchGIF** is a lightweight, header-only C library for decoding GIF images with a focus on efficiency, safety, and minimal resource usage.  
 
@@ -208,11 +204,19 @@ Ideal for:
 
 If you enjoy using this library and find it useful, consider supporting my work with a coffee!  
 
+I am a C purist dedicated to the art of bare-metal systems programming. My philosophy is simple: zero dependencies and zero dynamic memory allocation. I consider malloc my enemy - I prefer predictable, stack-based, and static memory to ensure ultimate stability and speed. Due to limited hardware access, I craft and debug all my code directly on my smartphone. This constraint has forced me to become a disciplined architect, creating tiny, high-performance binaries where every byte is justified. Your support helps me maintain my "zero-bloat" open-source projects and get closer to a dedicated workstation to continue pushing the limits of pure C.
+
 <a href="https://ko-fi.com/ferki" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" height="36" />
 </a>
 
-Your support helps me continue maintaining and improving this project!
+*(Currently donations are not active — coming soon!)*
+
+
+### BTC:
+```
+bc1qd6rnejket3slkwr3nvz22fcdejmlygzmswpqaa
+```
 
 ---
 
